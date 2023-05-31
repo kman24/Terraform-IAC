@@ -1,0 +1,28 @@
+
+
+'on:modules':
+  - any:
+    - 'modules/**'
+    - '!**/*.md'
+
+'on:documentation':
+  - any:
+      - '**/*.md'
+      - '!**/README.md'
+
+  - 'README.md'
+  
+
+'on:FAST':
+  - any:
+    - 'fast/**'
+    - '!**/*.md'
+
+'on:modules':
+  - any:
+    - 'modules/**'
+    - '!**/*.md'
+
+'on:tools':
+  - 'tools/**'
+  - '.github/**'

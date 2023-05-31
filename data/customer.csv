@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,phone
+1,John,Doe,john.doe@example.com,123-456-7890
+2,Jane,Smith,jane.smith@example.com,987-654-3210
+3,David,Johnson,david.johnson@example.com,555-123-4567
+4,Sarah,Williams,sarah.williams@example.com,111-222-3333
+5,Michael,Brown,michael.brown@example.com,444-555-6666
